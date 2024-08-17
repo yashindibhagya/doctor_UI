@@ -1,7 +1,6 @@
 
 # Doctor UI Design - Figma
-
-# This repository contains the UI design for a doctor appointment and management system, created using Figma. The design focuses on a clean, user-friendly interface to streamline the process for doctors and patients. It includes screens for appointment scheduling, patient records, and a dashboard for doctors to manage their daily tasks efficiently.
+This repository contains the UI design for a doctor appointment and management system, created using Figma. The design focuses on a clean, user-friendly interface to streamline the process for doctors and patients. It includes screens for appointment scheduling, patient records, and a dashboard for doctors to manage their daily tasks efficiently.
 
 ## Figma UI Design
 
