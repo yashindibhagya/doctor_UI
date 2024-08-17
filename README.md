@@ -6,7 +6,7 @@ This repository contains the UI design for a doctor appointment and management s
 
 ![Design 1](https://github.com/yashindibhagya/doctor_UI/blob/c5e5c26e0020e7a5673867ebcdc9af507944bf24/Doctor%20Website/MacBook%20Pro%2016_%20%20home%20page.png)
 
-<img src="[https://github.com/yashindbhaya/yashindibhagya/blob/main/designs/design1.png](https://github.com/yashindibhagya/doctor_UI/blob/c5e5c26e0020e7a5673867ebcdc9af507944bf24/Doctor%20Website/MacBook%20Pro%2016_%20%20home%20page.png)" alt="Design 1" width="300px">
+<img src="(https://github.com/yashindibhagya/doctor_UI/blob/c5e5c26e0020e7a5673867ebcdc9af507944bf24/Doctor%20Website/MacBook%20Pro%2016_%20%20home%20page.png)" alt="Design 1" width="300px">
 
 ![Design 2]
 
