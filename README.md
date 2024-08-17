@@ -7,5 +7,5 @@
 
 ## Figma UI Design Prototype
 
-[View the Figma Prototype](https://www.figma.com/proto/YourProjectID)
+[View the Figma Prototype](https://www.figma.com/proto/https://www.figma.com/design/4ecqe1bxoivZXT7zfinfmJ/Untitled?node-id=0-1&t=2FnUau4g3B5fCLXn-1)
 
