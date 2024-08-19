@@ -4,6 +4,11 @@ This repository contains the UI design for a doctor appointment and management s
 
 ## Figma UI Design
 
+<p align="center">
+  <img src="https://github.com/yashindibhagya/doctor_UI/blob/c5e5c26e0020e7a5673867ebcdc9af507944bf24/Doctor%20Website/MacBook%20Pro%2016_%20%20home%20page.png" alt="Image 1" width="45%">
+  <img src="https://github.com/yashindibhagya/doctor_UI/blob/c5e5c26e0020e7a5673867ebcdc9af507944bf24/Doctor%20Website/MacBook%20Pro%2016_%20%20home%20page.png" alt="Image 2" width="45%">
+</p>
+
 <img src="https://github.com/yashindibhagya/doctor_UI/blob/c5e5c26e0020e7a5673867ebcdc9af507944bf24/Doctor%20Website/MacBook%20Pro%2016_%20%20home%20page.png" alt="Design 1" width="600px">
 <img src="https://github.com/yashindibhagya/doctor_UI/blob/c5e5c26e0020e7a5673867ebcdc9af507944bf24/Doctor%20Website/MacBook%20Pro%2016_%20%20home%20page.png" alt="Design 1" width="600px">
 <img src="https://github.com/yashindibhagya/doctor_UI/blob/c5e5c26e0020e7a5673867ebcdc9af507944bf24/Doctor%20Website/MacBook%20Pro%2016_%20%20home%20page.png" alt="Design 1" width="600px">
